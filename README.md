@@ -1,4 +1,4 @@
-## Investigating Unfaithful Shortcuts in the Chain-of-Thought Reasoning for Multimodal Inputs
+## From Words to Images: Is CoT Still Trustworthy in Multimodal Reasoning?
 
 
 ### Report prepared for the [Whitebox Research](https://www.whiteboxresearch.org/) AI Interpretability Fellowship 2025 - Project Phase
